@@ -9,7 +9,7 @@
   
   ## Overview
   ### Description
-  I completed 2 projects of Tailwind CSS course on [Scrimba](https://scrimba.com/learn/tailwind/employee-card-challenge-cD7GPvfW). I mastered Tailwind CSS in these projects. 
+  I completed 1 projects(also there is one more project, i am working on it) of Tailwind CSS course on [Scrimba](https://scrimba.com/learn/tailwind/employee-card-challenge-cD7GPvfW). I mastered Tailwind CSS in these projects. 
   You can see the visual representations of the each app below.
   
   ## Projects
