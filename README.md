@@ -9,7 +9,7 @@
   
   ## Overview
   ### Description
-  I completed 2 projects of Module 2 of the frontend developer career path on [Scrimba](https://scrimba.com/learn/htmlandcss). I mastered Tailwind CSS in these projects. 
+  I completed 2 projects of Tailwind CSS course on [Scrimba](https://scrimba.com/learn/tailwind/employee-card-challenge-cD7GPvfW). I mastered Tailwind CSS in these projects. 
   You can see the visual representations of the each app below.
   
   ## Projects
