@@ -4,6 +4,7 @@
   - [Description](#description)
 - [Projects](#projects)
   - [1-Employee Card App](#employee-card)
+  - [2-Landing Page](#landing-page)
 
   
   
@@ -17,3 +18,8 @@
   ### Visulation of the App 
 
     ![image](./1-employee-card/card.png)
+    
+  ### 2-Landing Page
+  ### Visulation of the App 
+
+    ![image](./2-landing-page/landing-page.png)
