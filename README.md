@@ -11,7 +11,7 @@
   
   ## Overview
   ### Description
-  I completed 3 projects of Tailwind CSS course on [Scrimba](https://scrimba.com/learn/tailwind/employee-card-challenge-cD7GPvfW). The first two projects are employee card and landing page. After I completed these projects, I designed solo project as spotify clone. I mastered Tailwind CSS in these projects. You can see the visual representations of the each app below.
+  I completed 3 projects of Tailwind CSS course on [Scrimba](https://scrimba.com/learn/tailwind/employee-card-challenge-cD7GPvfW). The first two projects are employee card and landing page. After I completed these projects, I designed a solo project called as spotify clone. I mastered Tailwind CSS in these projects. You can see the visual representations of the each app below.
   
   ## Projects
   ### 1-Employee Card App
