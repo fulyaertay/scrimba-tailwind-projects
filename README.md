@@ -5,6 +5,7 @@
 - [Projects](#projects)
   - [1-Employee Card App](#employee-card)
   - [2-Landing Page](#landing-page)
+  - [3-Spotify Clone App](#spotify)
 
   
   
@@ -22,3 +23,8 @@
   ### Visulation of the App 
 
     ![image](./2-landing-page/landing-page.png)
+    
+  ### 3-Spotify Clone
+  ### Visulation of the App 
+
+    ![image](./3-solo-project-spotify-clone/spotify.png)
