@@ -34,7 +34,7 @@
             </a>
           </li>
         </ul>
-        <div class="overflow-y-auto px-5 mt-2">
+        <div class="overflow-y-auto px-5 mt-2 sidebar-spotify">
           <h3 class="uppercase tracking-widest text-gray-500 font-bold text-sm">Your Library</h3>
           <ul class="leading-relaxed">
             <li class="truncate"><a href="#" class="hover:text-white">Made For You</a></li>
@@ -75,7 +75,9 @@
         </div>
       
       </div>
-        <div class="content-area bg-zinc-900 flex-1 overflow-y-auto">
+        <div class="content bg-zinc-900 flex-1  flex flex-col">
+          <div class="top-bar"></div>
+          <div class="content-area overflow-y-auto content-spotify"></div>
   
         </div>
       </div>
@@ -129,5 +131,26 @@
         </div>
       </div>
     </div>
+    <style>
+      .sidebar-spotify::-webkit-scrollbar
+      {
+        width: 8px;
+        background-color: #121212;
+      }
+      .sidebar-spotify::-webkit-scrollbar-thumb {
+        border-radius: 8px;
+        background-color: #535353;
+      }
+      .content-spotify::-webkit-scrollbar
+      {
+        width: 8px;
+        background-color: #181818;
+      }
+      .content-spotify::-webkit-scrollbar-thumb {
+        border-radius: 8px;
+        background-color: #535353;
+      }
+    </style>
+ 
   </body>
 </html>
