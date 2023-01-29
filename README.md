@@ -22,9 +22,11 @@
   ### 2-Landing Page
   ### Visulation of the App 
 
+
     ![image](./2-landing-page/landing-page.png)
     
   ### 3-Spotify Clone
   ### Visulation of the App 
+  ### Check it out: [Link](https://scrimba-spotify-clone.netlify.app/)
 
     ![image](./3-solo-project-spotify-clone/spotify.png)
