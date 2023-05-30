@@ -2,7 +2,6 @@
   ### Visulation of the App 
   ### Check it out: [Link](https://scrimba-spotify-clone.netlify.app/)
 
-    ![image](../3-solo-project-spotify-clone/spotify.png)
 
 Quick start:
 
