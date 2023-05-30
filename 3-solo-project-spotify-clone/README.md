@@ -1,8 +1,9 @@
   ### Spotify Clone
+  ### Check it out: [Link](https://scrimba-spotify-clone.netlify.app/)
   ### Visulation of the App 
    ![image](./spotify.png)
   
-  ### Check it out: [Link](https://scrimba-spotify-clone.netlify.app/)
+
 
 
 Quick start:
